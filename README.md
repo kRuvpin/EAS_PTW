@@ -1,3 +1,13 @@
+Cara pakai
+- Download atau Clone repo
+- jalankan di terminal "composer update"
+- lalu ganti .env.example jadi .env
+- ganti nama database .env
+- jalankan "php artisan key:generate"
+- lalu migrate atau impor database
+- done!!!
+EAS PTW D toko online 1461900069 dan 1461900083
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
